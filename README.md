@@ -1,2 +1,0 @@
-# PythonPalooza
-All My Python
