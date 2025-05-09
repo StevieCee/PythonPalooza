@@ -1,5 +1,5 @@
 import asyncio
-import websockets
+import try_websocket
 
 # Set of connected clients
 connected_clients = set()

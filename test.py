@@ -1,5 +1,7 @@
 import websocket
 
+
+# works (needs to have websocket-client package installed)
 if __name__ == "__main__":
     websocket.enableTrace(True)
     ws = websocket.create_connection("ws://echo.websocket.events/")

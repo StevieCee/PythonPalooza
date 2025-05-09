@@ -1,5 +1,6 @@
 import asyncio
-import websockets
+import websocket
+
 
 # Function to handle the chat client
 async def chat():
